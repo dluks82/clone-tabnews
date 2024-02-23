@@ -1,0 +1,24 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Implementação do tabnews.com.br dentro do curso.dev by Filipe Deschamps",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dluks82/clone-tabnews.git"
+  },
+  "author": "Diogo Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dluks82/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/Dluks82/clone-tabnews#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
